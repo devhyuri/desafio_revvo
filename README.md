@@ -11,8 +11,5 @@
    npm i
    npm run build
 ## Rodar sem colocar no apache
-
-npm run build
-# se estiver usando o servidor embutido:
-php -S 0.0.0.0:8000 -t public public/router.php
+   php -S 0.0.0.0:8000 -t public public/router.php
 
