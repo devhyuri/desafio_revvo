@@ -1,0 +1,15 @@
+{
+  "name": "desafio_revvo",
+  "private": true,
+  "scripts": { "build": "gulp build", "dev": "gulp watch" },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.77.0",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^3.0.0"
+  }
+}
